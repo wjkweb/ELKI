@@ -1,0 +1,12 @@
+our method is clustering.ipeaks.DensityPeakClusterMerge
+
+    multiValue    rhoThreshold            merageThreshold        deltaThreshold 
+D1      1          1                         2                 0.001
+D2      2          4                         3                 0.001
+D3      4          7                         0.2               0.001
+D4      1          1                         2                 0.002
+D5      4          6                         1                 0.001
+D6      3          1                         1                 0.001
+D7      1          1                         100               0.002
+D8      2          1                         5                 0.001
+

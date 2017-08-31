@@ -1,0 +1,4 @@
+make model mpg weight price
+AMC Concord 22 2930 4099
+AMC Pacer   17 3350 4749
+AMC Spirit  22 2640 3799
